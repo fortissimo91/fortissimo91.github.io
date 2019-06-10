@@ -1428,7 +1428,7 @@ body {
   font-weight: 300;
 }
 .cid-rspCKPUf2W .mbr-content-text {
-  color: #767676;
+  color: #232323;
   margin-bottom: 0;
 }
 .cid-rspCKPUf2W .card {
@@ -1483,4 +1483,25 @@ body {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #ffffff;
+}
+.cid-rsZLTH90Ny {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #cc2952;
+  background: linear-gradient(45deg, #cc2952, #232323);
+}
+@media (min-width: 992px) {
+  .cid-rsZLTH90Ny .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rsZLTH90Ny .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rsZLTH90Ny .mbr-text {
+    text-align: center;
+  }
 }
