@@ -89,7 +89,8 @@
             },
             ".mbr-content-text": {
               "color": "#232323",
-              "margin-bottom": "0"
+              "margin-bottom": "0",
+              "text-align": "left"
             },
             ".card": {
               "word-wrap": "break-word",
@@ -138,6 +139,12 @@
                   "padding-bottom": "1rem"
                 }
               }
+            },
+            ".img-text": {
+              "text-align": "left"
+            },
+            "H4": {
+              "text-align": "left"
             }
           },
           "_name": "counters5",

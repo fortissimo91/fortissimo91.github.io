@@ -1431,6 +1431,7 @@ body {
 .cid-rspCKPUf2W .mbr-content-text {
   color: #232323;
   margin-bottom: 0;
+  text-align: left;
 }
 .cid-rspCKPUf2W .card {
   word-wrap: break-word;
@@ -1479,6 +1480,12 @@ body {
     padding: 0;
     padding-bottom: 1rem;
   }
+}
+.cid-rspCKPUf2W .img-text {
+  text-align: left;
+}
+.cid-rspCKPUf2W H4 {
+  text-align: left;
 }
 .cid-rspK2l1nAB {
   padding-top: 60px;
