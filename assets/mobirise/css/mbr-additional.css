@@ -1424,7 +1424,7 @@ body {
   background-color: #efefef;
 }
 .cid-rspCKPUf2W .mbr-section-subtitle {
-  color: #ff3366;
+  color: #ff5709;
   font-weight: 300;
   text-align: left;
 }
@@ -1438,9 +1438,9 @@ body {
   -webkit-flex-shrink: 0;
 }
 .cid-rspCKPUf2W .img-text {
-  width: 64px;
-  height: 64px;
-  font-size: 32px;
+  width: 54px;
+  height: 54px;
+  font-size: 27px;
   border: 2px solid #efefef;
   border-radius: 50%;
 }
